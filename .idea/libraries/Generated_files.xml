@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/User.js" />
+        <item url="file://$PROJECT_DIR$/src/EventBus.js" />
+        <item url="file://$PROJECT_DIR$/src/HumanController.js" />
+        <item url="file://$PROJECT_DIR$/src/HodorIAController.js" />
+        <item url="file://$PROJECT_DIR$/src/ChatRoom.js" />
+        <item url="file://$PROJECT_DIR$/src/ChatUI.js" />
+        <item url="file://$PROJECT_DIR$/spec/ChatRoomSpec.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Hodor.js" />
+      <root url="file://$PROJECT_DIR$/src/EventBus2.js" />
+      <root url="file://$PROJECT_DIR$/src/User.js" />
+      <root url="file://$PROJECT_DIR$/src/HumanController.js" />
+      <root url="file://$PROJECT_DIR$/src/EventBus.js" />
+      <root url="file://$PROJECT_DIR$/src/HodorIAController.js" />
+      <root url="file://$PROJECT_DIR$/src/ChatRoom.js" />
+      <root url="file://$PROJECT_DIR$/src/ChatUI.js" />
+      <root url="file://$PROJECT_DIR$/spec/ChatRoomSpec.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

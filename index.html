@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Chat with Hodor!</title>
+    <link rel="stylesheet" type="text/css" href="css/all.css">
+
+    <script src="lib/lodash.js"></script>
+    <script src="lib/jquery-2.1.4/jquery-2.1.4.min.js"></script>
+    <script src="lib/postal/postal.min.js"></script>
+
+    <script src="src/User.js"></script>
+    <script src="src/EventBus.js"></script>
+    <script src="src/ChatUI.js"></script>
+    <script src="src/ChatRoom.js"></script>
+    <script src="src/HodorIAController.js"></script>
+    <script src="src/HumanController.js"></script>
+
+    <script src="src/setup.js"></script>
+
+</head>
+<body>
+    <div>
+        <h1>Chat with Hodor!</h1>
+        <p id="status">&nbsp;</p>
+        <div id="messages"></div>
+        <div>
+            <input type="text" placeholder="Chat with Hodor..."/>
+            <button>Send</button>
+        </div>
+    </div>
+</body>
+</html>
